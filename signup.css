@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    opacity:0.8;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+.col-lg-4{
+    box-shadow: 10px 10px 9px rgb(238, 232, 232);
+}

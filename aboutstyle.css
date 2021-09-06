@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height:100%;
+    margin:0;
+}
+.logo{
+    height:60px;
+    width:120px;
+    border-radius :5px;
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.matter{
+    text-align: center;
+    font-size: 20px;
+}
+hr{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.whoarewe{
+    background-image: url(team.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+.bg{
+    background-color: rgba(41,64,211,0.5);
+    margin:0;
+    height:100vh;
+}
+.intro{
+    margin:auto;
+}
+.hd{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:60px; 
+    text-align: center;
+    position: relative;
+    top:160px;
+}
+.matt{
+    position: relative;
+    text-align: center;
+    top:160px;
+    font-size: 23px;
+}
+.about{
+    font-size: 100px;
+    color:rgba(41,64,211,0.8);
+    font-style: oblique;
+}
+.vision{
+    background-image: url(vision.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+.matt1{
+    position: relative;
+    text-align: center;
+    top:150px;
+    font-size: 23px;
+}
+.hd1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:60px; 
+    text-align: center;
+    position: relative;
+    top:80px;
+}
+.fa-envelope-square{
+    color:rgb(209, 93, 93);
+}
+.fa-github{
+    color:#000;
+}
